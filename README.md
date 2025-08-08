@@ -23,7 +23,7 @@ new_repo_college
 
 # 4. Add all files to the staging area
 ```bash
- git remote -v
+ git add .
 ```
 
 # 5. Check the status of the working directory
